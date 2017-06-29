@@ -1,0 +1,9 @@
+#include "mainwindow.h"
+
+MainWindow::MainWindow()
+    :imageLabel(new QLabel)
+    , scrollArea(new QScrollArea)
+    , scaleFactor(1){
+    imageLabel 
+
+}
