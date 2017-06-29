@@ -36,14 +36,4 @@ Implemented Features:
         - Zoom in: W
         - Zoom out: S
 
-    One small issue about the key conflicts: 
-
-    I have noticed that for my desktop, there is a key conflict on the 
-    left, right, up and down arrow. To solve this, I have also created a
-    'trivial' QRadiobutton in the Camera Dock to stuck the mouse. 
-    Once put the mouse into that button,there would be no conflicts anymore;
-    However, My laptop, do not has the conflict issue at all, the rotate 
-    keypress always has the priority to get called.(I don't know why...) 
-    Both my laptop and Desktop run on Ubuntu 16.04
-
 Thanks very much!
