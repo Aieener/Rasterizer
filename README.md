@@ -1,7 +1,8 @@
 # Rasterizer
 
 This work implemented a rasterizer along with **UI** and **image filter** to parse 3D scenes. _(Using Qt/C++)_
-
+snapshot of this program:
+![Alt text](relative/path/to/screensho1.jpg?raw=true "Screenshot")
 This program requires `Qt 5.4+` and to run the program:
 
 simply clone/download it
