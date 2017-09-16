@@ -8,6 +8,6 @@ simply clone/download it
 ```
 git clone https://github.com/Aieener/Rasterizer.git
 ```
-then, open the hw_4.pro file from Qt and the program will get started by clicking the run buttun.
+then, open the hw_4.pro file from Qt and the program will get started by clicking the run button.
 
 Thanks! 
